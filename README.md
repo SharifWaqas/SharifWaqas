@@ -16,6 +16,14 @@ Backend Engineering • Distributed Systems • AI Applications
 Building reliable backend systems that prioritize performance, scalability, and maintainability.
 </p>
 
+<p align="center">
+  <a href="https://sharifwaqas.vercel.app"><strong>🌐 Engineering Portfolio</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/SharifWaqas/safestep">SafeStep</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/SharifWaqas/log-analytics-backend">Log Analytics Engine</a>
+</p>
+
 ---
 
 # About
@@ -200,6 +208,10 @@ https://github.com/SharifWaqas/log-analytics-backend
 💼 LinkedIn
 
 **www.linkedin.com/in/muhammad-sharif-77494139b**
+
+🌐 Portfolio
+
+**https://sharifwaqas.vercel.app**
 
 ---
 
