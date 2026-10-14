@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img src="assets/hero-dark.svg" width="100%" alt="Sharif Waqas — systems-minded developer. A mathematical attractor illustrates chaos becoming clarity.">
+    <img src="assets/hero-dark.svg" width="100%" alt="Sharif Waqas — AI systems engineer. A mathematical attractor illustrates chaos becoming clarity.">
   </picture>
 </p>
 
@@ -20,11 +20,11 @@
 
 ### A little about me
 
-I'm a **Computer Science & Mathematics sophomore at the University of Southern Mississippi** who likes building things that are both technically interesting and genuinely useful.
+I'm a **Computer Science & Mathematics sophomore at the University of Southern Mississippi**, focused on becoming an **AI Systems Engineer**. I like building things that are both technically interesting and genuinely useful.
 
-I focus on **backend engineering, performance, distributed systems, and practical AI**. I enjoy thinking through tradeoffs, measuring what matters, and making complex systems easier to understand.
+My work sits at the intersection of **AI systems, backend infrastructure, reliability, and distributed systems**. I'm especially interested in building the engineering around intelligent applications: model orchestration, validation, observability, data pipelines, and resilient APIs.
 
-**Right now:** learning Go and distributed-systems fundamentals, contributing to open source, and looking for **Summer 2027 software engineering internships**.
+**Right now:** learning Go and distributed-systems fundamentals, contributing to open source, and seeking **Summer 2027 internships in AI systems, infrastructure, and backend engineering**.
 
 ### Selected work
 
@@ -70,13 +70,13 @@ I focus on **backend engineering, performance, distributed systems, and practica
 | **Languages** | Python · C++ · SQL · Go *(learning)* |
 | **Backend & data** | FastAPI · REST APIs · PostgreSQL · SQLAlchemy |
 | **Infrastructure** | Docker · Git · GitHub · queue-based processing |
-| **AI** | Multimodal models · API integration · evaluation and risk logic |
-| **Exploring next** | Distributed job queues · reliability · systems design |
+| **AI systems** | Multimodal model integration · provider fallback · structured output validation · deterministic risk logic |
+| **Exploring next** | Distributed job queues · AI infrastructure · reliability engineering |
 
 ---
 
 <p align="center">
   <b>Curiosity → experiments → useful software.</b>
   <br>
-  <sub>Open to collaborating on thoughtful backend, infrastructure, and applied-AI projects.</sub>
+  <sub>Interested in collaborating on AI systems, infrastructure, and applied-AI projects.</sub>
 </p>
