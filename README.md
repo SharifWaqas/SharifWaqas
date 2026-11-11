@@ -59,6 +59,23 @@ My work sits at the intersection of **AI systems, backend infrastructure, reliab
   </tr>
 </table>
 
+
+<table>
+  <tr>
+    <td width="39%" valign="middle">
+      <a href="https://github.com/SharifWaqas/hexadepth-backend"><img src="assets/hexadepth.svg" width="100%" alt="HexaDepth priority-first sonar data visualization"></a>
+    </td>
+    <td valign="top">
+      <h3>03 / <a href="https://github.com/SharifWaqas/hexadepth-backend">HexaDepth ↗</a></h3>
+      <p><b>🏆 VOXO Hackathon — Blue Economy Stream Winner</b></p>
+      <p>A bandwidth-aware sonar transmission prototype that prioritizes compact object-region metadata, a low-resolution scene overview, and targeted detail crops before the full image. Built a FastAPI backend with 64-byte packet frames, CRC-16 checks, receiver reassembly, optional SHA-256-verified lossless recovery, and a browser demo. Supports optional YOLO11n sonar detection with separately installed model weights.</p>
+      <p><i>Transfer times are software simulations; no underwater acoustic hardware was tested.</i></p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Sonar</code> <code>Packetization</code> <code>Computer Vision</code></p>
+      <p><a href="https://github.com/SharifWaqas/hexadepth-backend">Explore the code & demo →</a></p>
+    </td>
+  </tr>
+</table>
+
 ### Open source
 
 **[pytest · PR #15157](https://github.com/pytest-dev/pytest/pull/15157)** — Proposed a fix for string-based `monkeypatch.setattr` / `delattr` resolution when a cached submodule is missing its parent-package attribute. Added regression coverage for both operations and undo behavior.
